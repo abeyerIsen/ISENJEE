@@ -33,6 +33,10 @@ With this practical work, just a few things:
   * `updateStocks(Order order)`
   * `getStock()`  
 * The Apple Store is the favourite shop of Mrs Michu whereas The Knowledge Store is the favourite of the "AwesomePros" company.
+* The stock of a shop is just a `Map` that associates a `String` and an `Integer`
+
+## The Order
+* Just a POJO that holds a optionnal license and a list of `String` that represents the products.
 
 ### Beans
 * Four beans should be declared in the `AppConfig` class:
