@@ -4,13 +4,10 @@ import org.assertj.core.data.MapEntry;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
-import yncrea.pw02.beans.Customer;
 import yncrea.pw02.beans.Shop;
 import yncrea.pw02.beans.impl.Person;
 import yncrea.pw02.beans.impl.Company;
 import yncrea.pw02.beans.impl.ShopImpl;
-
-import static org.assertj.core.api.Assertions.*;
 
 @RunWith(JUnit4.class)
 public class AppConfigBehaviourTest {

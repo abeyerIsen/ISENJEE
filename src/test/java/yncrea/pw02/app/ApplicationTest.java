@@ -8,11 +8,8 @@ import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import yncrea.pw02.beans.Customer;
 import yncrea.pw02.beans.Shop;
 import yncrea.pw02.pojo.Order;
-
-import static org.assertj.core.api.Assertions.*;
 
 @RunWith(JUnit4.class)
 public class ApplicationTest {
@@ -24,6 +21,10 @@ public class ApplicationTest {
     private Shop knowledgeStore;
 
     private Customer mrsMichu;
+
+    @Test
+    public void name() {
+    }
 
     private Customer awesomePros;
 

@@ -6,6 +6,7 @@ import org.mockito.Mock;
 import org.powermock.modules.junit4.PowerMockRunner;
 import yncrea.pw02.beans.impl.Company;
 import yncrea.pw02.pojo.Order;
+import yncrea.pw02.pojo.Shop;
 
 import static org.mockito.Mockito.*;
 

@@ -6,7 +6,6 @@ import org.junit.runners.JUnit4;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.LocalVariableTableParameterNameDiscoverer;
-import yncrea.pw02.beans.Customer;
 import yncrea.pw02.beans.Shop;
 
 import java.lang.reflect.Method;

@@ -3,6 +3,7 @@ package yncrea.pw02.beans;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
+import yncrea.pw02.pojo.Customer;
 import yncrea.pw02.pojo.Order;
 
 import static org.assertj.core.api.Assertions.*;

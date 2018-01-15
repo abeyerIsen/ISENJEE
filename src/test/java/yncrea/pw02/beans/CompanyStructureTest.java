@@ -5,7 +5,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 import yncrea.pw02.beans.impl.Company;
-import yncrea.pw02.pojo.Order;
+import yncrea.pw02.pojo.Customer;
+import yncrea.pw02.pojo.Shop;
 
 import java.lang.reflect.Field;
 
